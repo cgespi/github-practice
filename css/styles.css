@@ -1,0 +1,52 @@
+header, nav, footer {
+    height: 80px;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+.float-left {
+    float: left;
+}
+
+#section_article_column {
+    width: 65%;
+}
+
+#aside_column {
+    width: 35%;
+}
+
+section, article {
+    height: 338px;
+}
+
+aside {
+    height: 680px;
+}
+
+header {
+    background-color: lightblue;
+}
+
+nav {
+    background-color: bisque;
+}
+
+section {
+    background-color: chocolate;
+}
+
+article {
+    background-color: yellow;
+}
+
+aside {
+    background-color: darkgray;
+}
+
+footer {
+    clear: left;
+    background-color: thistle;
+}
